@@ -1,5 +1,5 @@
 {
-  "name": "tshint",
+  "name": "claritype",
   "version": "1.0.0",
   "description": "Typescript named type aliases to clarify the meaning of the variable",
   "main": "src/main.ts",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dilame/tshint.git"
+    "url": "git+ssh://git@github.com/dilame/claritype.git"
   },
   "keywords": [
     "typeset"
@@ -16,7 +16,7 @@
   "author": "bowzee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dilame/tshint/issues"
+    "url": "https://github.com/dilame/claritype/issues"
   },
-  "homepage": "https://github.com/dilame/tshint#readme"
+  "homepage": "https://github.com/dilame/claritype#readme"
 }
