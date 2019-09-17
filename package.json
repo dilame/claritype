@@ -1,0 +1,22 @@
+{
+  "name": "tshint",
+  "version": "1.0.0",
+  "description": "Typescript named type aliases to clarify the meaning of the variable",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dilame/tshint.git"
+  },
+  "keywords": [
+    "typeset"
+  ],
+  "author": "bowzee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilame/tshint/issues"
+  },
+  "homepage": "https://github.com/dilame/tshint#readme"
+}
